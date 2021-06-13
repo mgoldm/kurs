@@ -81,7 +81,7 @@ uwsgi --ini cyb.ini&
 uwsgi --ini xyi.ini&
 sudo nginx -s reload
 ```
-###Настройка nginx
+### Настройка nginx
 
 
 Далее настроим nginx как обратный прокси-сервер. nginx будет проксировать запросы при помощи протокола uwsgi для взаимодействия с uWSGI.
