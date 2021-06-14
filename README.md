@@ -25,12 +25,10 @@ python3 -m venv xv
 ![image](https://user-images.githubusercontent.com/57058926/121810453-a6fa8380-cc69-11eb-808f-d4c321ae298b.png)
 
 Командная строка изменилась. Это говорит о том, что виртуальная среда успешно запущена:
-```
-(xv)gold@host:$
-```
+
 Когда виртуальная среда активна, все устанавливаемые приложения Python будут помещены в иерархию этого каталога.
 
-###Установка uWSGI
+### Установка uWSGI
 
 
 Установим uWSGI сервер с помощью pip3:
@@ -131,7 +129,6 @@ sudo service nginx restart
 
 http://127.0.0.1:8000
 
-![image](https://user-images.githubusercontent.com/57058926/121857891-baa3f980-ccfe-11eb-915d-af3d1c3c26e0.png)
 
 
 На экране появится веб-станица с надписью:
