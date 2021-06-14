@@ -135,8 +135,9 @@ http://127.0.0.1:8000
 
 
 На экране появится веб-станица с надписью:
+![image](https://user-images.githubusercontent.com/57058926/121859892-f344d280-cd00-11eb-8a89-cb276af8ab68.png)
 
 Hello world!
 Так же можно проверить логи ошибок.
-![image](https://user-images.githubusercontent.com/57058926/121820187-2902a080-cc9a-11eb-8e4b-0c03c5412dc0.png)
+![Uploading image.png…]()
 Никаких новых ошибок не выдает.(файл заполнен прошлыми попытками)
