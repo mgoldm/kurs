@@ -129,7 +129,9 @@ sudo service nginx restart
 
 Откроем любой браузер и в адресной строке введём и нажмём Enter:
 
-http://127.0.0.1:80
+http://127.0.0.1:8000
+
+![image](https://user-images.githubusercontent.com/57058926/121857891-baa3f980-ccfe-11eb-915d-af3d1c3c26e0.png)
 
 
 На экране появится веб-станица с надписью:
